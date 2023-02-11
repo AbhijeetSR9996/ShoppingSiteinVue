@@ -26,6 +26,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Screenshots
 Some screenshots of project are :-
 
-![Screenshot (11)](https://user-images.githubusercontent.com/47415323/218243664-8425684c-6f1b-4244-a5a1-a8b3a10b0859.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/47415323/218243763-7d464149-ff81-4e2a-be93-11df410f396d.png)
 
-![Screenshot (12)](https://user-images.githubusercontent.com/47415323/218243668-7a0bd899-7d06-41a7-8df5-2f07f0b9181f.png)
+
+![Screenshot (16)](https://user-images.githubusercontent.com/47415323/218243772-1e2a017c-2b23-49c1-9146-daaa875077f7.png)
+
